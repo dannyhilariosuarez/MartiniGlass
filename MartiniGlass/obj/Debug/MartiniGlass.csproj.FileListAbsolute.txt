@@ -1,0 +1,6 @@
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe.config
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.exe
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\bin\Debug\MartiniGlass.pdb
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.csprojResolveAssemblyReference.cache
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.exe
+c:\users\danny hilario suarez\documents\visual studio 2017\Projects\MartiniGlass\MartiniGlass\obj\Debug\MartiniGlass.pdb
